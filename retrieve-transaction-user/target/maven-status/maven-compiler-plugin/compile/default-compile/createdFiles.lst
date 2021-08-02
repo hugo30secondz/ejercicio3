@@ -1,0 +1,8 @@
+com\hugo\spring\provider\api\controller\RetrieveTransactionUserController.class
+com\hugo\spring\provider\api\dao\TransactionDAO.class
+com\hugo\spring\provider\api\RetrieveTransactionUserApplication.class
+com\hugo\spring\provider\api\entity\TransactionDescription.class
+com\hugo\spring\provider\api\service\ProviderI.class
+com\hugo\spring\provider\api\entity\Transactions.class
+com\hugo\spring\provider\api\service\ProviderImpl.class
+com\hugo\spring\provider\api\dto\TransactionDTO.class
